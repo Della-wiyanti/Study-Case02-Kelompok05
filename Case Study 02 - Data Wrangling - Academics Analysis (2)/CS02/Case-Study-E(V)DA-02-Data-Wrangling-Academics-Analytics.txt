@@ -1,0 +1,14 @@
+Menggunakan berbagai teknik data wrangling, grouping/aggregate, preprocessing, dan statistika dasar yang telah anda pelajari di Mata Kuliah E(V)DA, jawablah beberapa pertanyaan berikut: 
+
+1. Apakah ada dosen yang cenderung memberikan nilai cenderung lebih tinggi (atau lebih rendah) dibandingkan dosen lainnya?
+2. Menurut data yang ada, apakah terdapat perbedaan dalam pemberian nilai antara dosen dengan Pendidikan Terakhir S3 dan S2?
+3. Apakah terdapat perbedaan performa akademik antara mahasiswa yang berasal dari Madrasah/SMK dan SMU?
+4. Apakah ada perbedaan yang nampak di data terhadap kemampuan akademik antara mahasiswa dan mahasiswi?
+5. Apakah ada perbedaan prestasi akademik yang nampak di data antar angkatan mahasiswa?
+6. Apakah ada permasalahan di data atau informasi lain yang anda temukan di data?
+
+Catatan: 
+- Jawaban dilakukan via Python (Pandas) dan tidak dilakukan secara manual via excel.
+- Data lengkap menyusul
+
+Sampai bertemu sore nanti via Zoom.
